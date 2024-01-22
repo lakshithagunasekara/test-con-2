@@ -41,6 +41,11 @@ title = "IEEE conferernce for Industrial Electronics 2024"
   section = ["HTML", "RSS"]
   page = ["HTML", "RSS"]
 
+[outputFormats.SEARCHPAGE]
+name = "SEARCHPAGE"
+mediaType = "text/html"  # Or the appropriate media type
+isPlainText = false 
+
 [markup]
   [markup.highlight]
     # line numbers in a table layout will shift if code is wrapping, so better
