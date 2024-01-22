@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>custom on Webiste for IEEE conferernce for Industrial Electronics 2024</title>
-    <link>https://example.com/categories/custom/index.html</link>
-    <description>Recent content in custom on Webiste for IEEE conferernce for Industrial Electronics 2024</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="https://example.com/categories/custom/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Call For Papers</title>
-      <link>https://example.com/for_authors/call_for_papers/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/for_authors/call_for_papers/index.html</guid>
-      <description>Papers are solicited for regular technical tracks and special session tracks as Regular papers and Work in progress (WIP) papers.
-WIP papers provide the opportunity to share early-stage research work that have not yet produced the full results to the community. WIP submissions that showcase only ideas without supporting results will not be accepted. Accepted and registered WiP papers will be published in the conference proceedings and in the IEEE Xplore Digital Library similarly to Regular papers.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>custom on Webiste for IEEE conferernce for Industrial Electronics 2024</title><link>https://sensational-basbousa-07c353.netlify.app/categories/custom/index.html</link><description>Recent content in custom on Webiste for IEEE conferernce for Industrial Electronics 2024</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://sensational-basbousa-07c353.netlify.app/categories/custom/index.xml" rel="self" type="application/rss+xml"/><item><title>Call For Papers</title><link>https://sensational-basbousa-07c353.netlify.app/for_authors/call_for_papers/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sensational-basbousa-07c353.netlify.app/for_authors/call_for_papers/index.html</guid><description>Papers are solicited for regular technical tracks and special session tracks as Regular papers and Work in progress (WIP) papers.
+WIP papers provide the opportunity to share early-stage research work that have not yet produced the full results to the community. WIP submissions that showcase only ideas without supporting results will not be accepted. Accepted and registered WiP papers will be published in the conference proceedings and in the IEEE Xplore Digital Library similarly to Regular papers.</description></item></channel></rss>

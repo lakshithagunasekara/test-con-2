@@ -42,23 +42,6 @@ title = "IEEE conferernce for Industrial Electronics 2024"
   page = ["HTML", "RSS", "PRINT"]
 
 
-[outputFormats.SEARCHPAGE]
-name = "SEARCHPAGE"
-mediaType = "text/html"  # Or the appropriate media type
-isPlainText = false 
-
-
-[outputFormats.PRINT]
-name = "PRINT"
-mediaType = "text/html"  # Or the appropriate media type
-isPlainText = false 
-
-[outputFormats.SEARCH]
-name = "SEARCH"
-mediaType = "text/html"  # Or the appropriate media type
-isPlainText = false 
-
-
 [markup]
   [markup.highlight]
     # line numbers in a table layout will shift if code is wrapping, so better
