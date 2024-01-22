@@ -37,9 +37,10 @@ title = "IEEE conferernce for Industrial Electronics 2024"
   # for the search functionality
   # add PRINT to home, section and page to activate the feature to print whole
   # chapters
-  home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE"]
-  section = ["HTML", "RSS"]
-  page = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "PRINT", "SEARCH", "SEARCHPAGE"]
+  section = ["HTML", "RSS", "PRINT"]
+  page = ["HTML", "RSS", "PRINT"]
+
 
 [outputFormats.SEARCHPAGE]
 name = "SEARCHPAGE"
@@ -47,11 +48,15 @@ mediaType = "text/html"  # Or the appropriate media type
 isPlainText = false 
 
 
+[outputFormats.PRINT]
+name = "PRINT"
+mediaType = "text/html"  # Or the appropriate media type
+isPlainText = false 
+
 [outputFormats.SEARCH]
 name = "SEARCH"
 mediaType = "text/html"  # Or the appropriate media type
 isPlainText = false 
-
 
 
 [markup]
