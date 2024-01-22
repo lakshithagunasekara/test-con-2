@@ -19,3 +19,8 @@ disableHugoGeneratorInject = true
   disableGeneratorVersion = true
   disableAssetsBusting = true
   disableRandomIds = true
+
+[outputFormats.SEARCHPAGE]
+name = "SEARCHPAGE"
+mediaType = "text/html"  # Or the appropriate media type
+isPlainText = false 
