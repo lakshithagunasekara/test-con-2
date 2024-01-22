@@ -46,6 +46,14 @@ name = "SEARCHPAGE"
 mediaType = "text/html"  # Or the appropriate media type
 isPlainText = false 
 
+
+[outputFormats.SEARCH]
+name = "SEARCH"
+mediaType = "text/html"  # Or the appropriate media type
+isPlainText = false 
+
+
+
 [markup]
   [markup.highlight]
     # line numbers in a table layout will shift if code is wrapping, so better
