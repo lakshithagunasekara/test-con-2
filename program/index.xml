@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content on Webiste for IEEE conferernce for Industrial Electronics 2024</title>
+    <link>https://lakshithagunasekara.github.io/test-con-2/program/index.html</link>
+    <description>Recent content in Content on Webiste for IEEE conferernce for Industrial Electronics 2024</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://lakshithagunasekara.github.io/test-con-2/program/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conference Program</title>
+      <link>https://lakshithagunasekara.github.io/test-con-2/program/conferernce_program/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lakshithagunasekara.github.io/test-con-2/program/conferernce_program/index.html</guid>
+      <description>Papers are solicited for regular technical tracks and special session tracks as Regular papers and Work in progress (WIP) papers.
+WIP papers provide the opportunity to share early-stage research work that have not yet produced the full results to the community. WIP submissions that showcase only ideas without supporting results will not be accepted. Accepted and registered WiP papers will be published in the conference proceedings and in the IEEE Xplore Digital Library similarly to Regular papers.</description>
+    </item>
+    <item>
+      <title>Tutorials and Workshops</title>
+      <link>https://lakshithagunasekara.github.io/test-con-2/program/tutorials_and_workshops/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lakshithagunasekara.github.io/test-con-2/program/tutorials_and_workshops/index.html</guid>
+      <description>ISIE 2023 will use the new IES paper submission system. Please read the submission instructions below. Paper format and templates are also found further down the page.
+Paper submission site instructions:
+You will need to register in order to use the system. After registering, wait for the confirmation email and verify your email address. If you don&amp;rsquo;t get the confirmation email or have some problem with your submission, please contact conferences@ieee-ies.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Webiste for IEEE conferernce for Industrial Electronics 2024</title>
+    <link>https://lakshithagunasekara.github.io/test-con-2/categories/index.html</link>
+    <description>Recent content in Categories on Webiste for IEEE conferernce for Industrial Electronics 2024</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://lakshithagunasekara.github.io/test-con-2/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>custom</title>
+      <link>https://lakshithagunasekara.github.io/test-con-2/categories/custom/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lakshithagunasekara.github.io/test-con-2/categories/custom/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>theming</title>
+      <link>https://lakshithagunasekara.github.io/test-con-2/categories/theming/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lakshithagunasekara.github.io/test-con-2/categories/theming/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
