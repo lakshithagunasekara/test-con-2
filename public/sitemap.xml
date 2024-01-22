@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.com/for_authors/index.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/program/index.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/program/conferernce_program/index.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/program/tutorials_and_workshops/index.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/for_authors/paper_submission/index.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/for_authors/call_for_papers/index.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/tags/config/index.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/categories/custom/index.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/index.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/tags/index.html</loc>
+  </url>
+  <url>
+    <loc>https://example.com/categories/theming/index.html</loc>
+  </url>
+</urlset>

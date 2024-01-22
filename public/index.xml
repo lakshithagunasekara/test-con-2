@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ISIE 2024 on Webiste for IEEE conferernce for Industrial Electronics 2024</title>
+    <link>https://example.com/index.html</link>
+    <description>Recent content in ISIE 2024 on Webiste for IEEE conferernce for Industrial Electronics 2024</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>For Authors</title>
+      <link>https://example.com/for_authors/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/for_authors/index.html</guid>
+      <description>Important Dates Event Date Special Session Proposal Deadline Dec 1, 2022 Special Session Proposal Acceptance Notification Dec 15, 2022 Regular and Special Session Paper Submission Deadline Feb 28, 2023 Work-in-Progress Paper Submission Deadline Mar 20, 2023 Paper Acceptance Notification Apr 30, 2023 Final Paper Submission Deadline (All) Apr 28, 2023 Tutorial Proposal Deadline Dec 1, 2022 Tutorial Acceptance Notification Dec 15, 2022 Author Registration Deadline Feb 28, 2023 </description>
+    </item>
+    <item>
+      <title>Content</title>
+      <link>https://example.com/program/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/program/index.html</guid>
+      <description>Find out how to create and organize your content quickly and intuitively.</description>
+    </item>
+  </channel>
+</rss>
